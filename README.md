@@ -32,7 +32,7 @@ bash
 git clone https://github.com/Sayan9615/Rapid-fire.git
 cd Rapid-fire
 
-###**Varianta 2 – Descarcă proiectul**
+**###Varianta 2 – Descarcă proiectul**
 
 1.Accesează https://github.com/Sayan9615/Rapid-fire
 
