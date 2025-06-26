@@ -33,15 +33,22 @@ git clone https://github.com/Sayan9615/Rapid-fire.git
 cd Rapid-fire
 
 ###**Varianta 2 – Descarcă proiectul**
+
 1.Accesează https://github.com/Sayan9615/Rapid-fire
+
 2.Apasă pe butonul verde Code → Download ZIP
+
 3.Extrage arhiva pe calculatorul tău
+
 4.Deschide folderul Rapid-fire
 
 **Rulare joc**
+
 1.Asigură-te că ai instalat Python 3
+
 2.Instalează biblioteca Pygame cu comanda:
   pip install pygame
+
 3.Rulează jocul cu:
   python main.py
 
